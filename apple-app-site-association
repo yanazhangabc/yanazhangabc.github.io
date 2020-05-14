@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "26FD236F5C.com.smoothzhang.WechatDemo",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
