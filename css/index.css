@@ -1,0 +1,109 @@
+html, body{
+    width: 100%;
+    height: 100%;
+    background: #F5F5F7;
+}
+.mask-layer{
+    width: 100%;
+    height: 100%;
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+.mask-layer .mask{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    opacity: 0.6;
+    background: #000000;
+}
+
+.tips{
+    display: block;
+    width: 21rem;
+    height: 14.1rem;
+    margin: 2.7rem auto 8.3rem;
+}
+#close_btn{
+    display: block;
+    width: 11.7rem;
+    height: 3.3rem;
+    margin: 0 auto;
+    background-image: linear-gradient(135deg, #ED9BFA 0%, #904EF4 100%);
+    box-shadow: 0 0.3rem 1rem 0 #4E4E4E;
+    border-radius: 1.6rem;
+    font-family: PingFangSC-Regular;
+    font-size: 1.4rem;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    text-align: center;
+    border: none;
+    outline: none;
+}
+.page{
+    width: 100%;
+    height: 100%;
+}
+.logo{
+    width: 100%;
+    height: 19rem;
+    background-color: #fff;
+    overflow: hidden;
+}
+.logo img {
+    display: block;
+    width: 7.5rem;
+    height: 7.5rem;
+    margin: 4.2rem auto 1.3rem;
+}
+.logo h3{
+    font-family: PingFangSC-Regular;
+    font-size: 1.3rem;
+    color: #231A2F;
+    letter-spacing: 0.04rem;
+    text-align: center;
+    font-weight: normal;
+}
+.handle{
+    width: 100%;
+    height: 6.7rem;
+    padding: 0 1.3rem;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.handle button, #open1 {
+    width: 13.8rem;
+    height: 3.3rem;
+    outline: none;
+    border: none;
+    font-size: 1.2rem;
+    border-radius: 1.8rem;
+    background-color: transparent;
+    letter-spacing: 0.03rem;
+    text-align: center;
+}
+.handle button:nth-of-type(1), #open1 {
+    border: 1px solid #904EF4;
+    color: #904EF4;
+}
+.handle button:nth-of-type(2) {
+    background-image: linear-gradient(135deg, #ED9BFA 0%, #904EF4 100%);
+    font-family: PingFangSC-Medium;
+    font-size: 1.2rem;
+    color: #FFFFFF;
+}
+.ad{
+    margin-top: 16.5rem;
+}
+.ad img {
+    display: block;
+    width: 28.8rem;
+    height: 12.5rem;
+    margin: 0 auto;
+}
