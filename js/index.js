@@ -1,8 +1,8 @@
 // 获取目标元素
 var closeBtn = document.getElementById('close_btn')
 var maskLayer = document.getElementsByClassName('mask-layer')[0]
-var open1 = document.getElementById('open')
-var open = document.getElementById('open1')
+var open = document.getElementById('open')
+var open1 = document.getElementById('open1')
 var download = document.getElementById('download')
 
 // 判断设备类型
