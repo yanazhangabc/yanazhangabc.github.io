@@ -15,17 +15,17 @@ closeBtn.onclick = function () {
 }
 // 打开App
 if (ua.indexOf('MicroMessenger') === -1) { // 非微信端
-    // window.location.href = "com.cebbank.xyk://"
+    window.location.href = "com.cebbank.xyk://"
 } else {
-    // maskLayer.style.display = 'block'
+    maskLayer.style.display = 'block'
 }
 
 // 下载App
 download.onclick = function () {
     if (!isAndroid) {
-        // window.location.href = "http://itunes.apple.com/cn/app/id794862904"
+        window.location.href = "http://itunes.apple.com/cn/app/id794862904"
     } else {
-        // window.location.href = "https://yghsh.cebbank.com/static/download/APPphone/apk/ebank_mobile_card.apk?ver=5.0.5";
+        window.location.href = "https://yghsh.cebbank.com/static/download/APPphone/apk/ebank_mobile_card.apk?ver=5.0.5";
     }
 }
 // 打开App
