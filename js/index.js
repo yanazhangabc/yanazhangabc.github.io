@@ -32,7 +32,7 @@ download.onclick = function () {
 open.onclick = function () {
     if (!isAndroid) {
         window.location.href = "wechatdemo://"
-        window.location.href = "http://itunes.apple.com/cn/app/id794862904"
+        // window.location.href = "http://itunes.apple.com/cn/app/id794862904"
     } else {
         window.location.href = "https://yghsh.cebbank.com/static/download/APPphone/apk/ebank_mobile_card.apk?ver=5.0.5";
     }
