@@ -38,6 +38,6 @@ open.onclick = function () {
     }
 }
 open1.onclick = function () {
-    // window.location.href = 'https://sifuweifang.com/'
+    window.location.href = 'https://yanazhangabc.com/'
 }
 
