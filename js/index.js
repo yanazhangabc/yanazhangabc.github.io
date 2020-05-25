@@ -15,9 +15,9 @@ closeBtn.onclick = function () {
 }
 // 打开App
 if (ua.indexOf('MicroMessenger') === -1) { // 非微信端
-    // window.location.href = "com.cebbank.xyk://"
+    window.location.href = "com.cebbank.xyk://"
 } else {
-    // maskLayer.style.display = 'block'
+    maskLayer.style.display = 'block'
 }
 
 // 下载App
