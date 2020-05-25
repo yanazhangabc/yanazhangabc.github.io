@@ -38,6 +38,6 @@ open.onclick = function () {
     }
 }
 open1.onclick = function () {
-    window.location.href = 'https://yanazhangabc.com/'
+    window.location.href = 'https://yanazhangabc.github.io/'
 }
 
