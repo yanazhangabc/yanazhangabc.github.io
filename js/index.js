@@ -38,6 +38,6 @@ open.onclick = function () {
     }
 }
 open1.onclick = function () {
-    window.location.href = 'https://sifuweifang.com/universallink'
+    window.location.href = 'https://sifuweifang.com/'
 }
 
