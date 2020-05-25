@@ -39,6 +39,6 @@ open.onclick = function () {
     }
 }
 open1.onclick = function () {
-    window.location.href = 'https://yanazhangabc.github.io/'
+    window.location.href = 'https://sifuweifang.com/'
 }
 
