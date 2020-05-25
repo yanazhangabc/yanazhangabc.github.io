@@ -38,6 +38,6 @@ open.onclick = function () {
     }
 }
 open1.onclick = function () {
-    window.location.href = 'https://weightzhang.github.io/jump'
+    window.location.href = 'https://sifuweifang.com/jump'
 }
 
