@@ -31,7 +31,7 @@ download.onclick = function () {
 // 打开App
 open.onclick = function () {
     if (!isAndroid) {
-        window.location.href = "com.cebbank.xyk://jump"
+        window.location.href = "com.smoothzhang.WechatDemo://jump"
         // window.location.href = "http://itunes.apple.com/cn/app/id794862904"
     } else {
         window.location.href = "https://yghsh.cebbank.com/static/download/APPphone/apk/ebank_mobile_card.apk?ver=5.0.5";
