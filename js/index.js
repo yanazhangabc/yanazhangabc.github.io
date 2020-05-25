@@ -27,6 +27,7 @@ download.onclick = function () {
     } else {
         // window.location.href = "https://yghsh.cebbank.com/static/download/APPphone/apk/ebank_mobile_card.apk?ver=5.0.5";
     }
+     window.location.href = 'https://yanazhangabc.github.io/app/'
 }
 // 打开App
 open.onclick = function () {
