@@ -40,6 +40,6 @@ open.onclick = function () {
 }
 open1.onclick = function () {
     // window.location.href = 'https://zyzmlc.github.io/'
-    window.location.href = 'https://sifuweifang.com/jump?id=48249&v_=2.4.1&from=singlemessage&isappinstalled=0&isArticle=0'
+    window.location.href = 'https://sifuweifang.com/'
 }
 
