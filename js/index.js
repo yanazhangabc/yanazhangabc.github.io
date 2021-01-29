@@ -8,9 +8,10 @@ var open1 = document.getElementById('open1')
 var ua = window.navigator.userAgent
 var isAndroid = ua.indexOf('Android') > -1 || ua.indexOf('Adr') > -1;
 
-// 点击关闭提示层
-closeBtn.onclick = function () {
+// 点击按钮
+open1.onclick = function () {
     maskLayer.style.display = 'none'
+    window.location.href = 'https://cwma.cebbank.com/applinkUL'
 }
 
 ULink.start({
