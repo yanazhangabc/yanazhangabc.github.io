@@ -44,7 +44,7 @@ open.onclick = function () {
 open1.onclick = function () {
     // window.location.href = 'https://zyzmlc.github.io/'
     // window.location.href = 'https://sifuweifang.com/'
-    window.location.href = 'https://cwma.cebbank.com/applinkUL?channel=SMARTSEARCH'
+    window.location.href = 'https://cwma.cebbank.com/applinkUL'
 }
 
 ULink.start({
