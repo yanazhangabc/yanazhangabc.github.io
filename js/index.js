@@ -47,3 +47,12 @@ open1.onclick = function () {
     window.location.href = 'https://cwma.cebbank.com/applinkUL?channel=SMARTSEARCH'
 }
 
+ULink.start({
+  id: 'usruisrboasjdhp', /* 平台为每个应用分配的方案link ID，必填 */
+  data: {} /* 自定义参数，选填 */
+}).ready(function(ctx) { /* 初始化完成的回调函数 */
+  document.getElementById('open1').onclick = function(e){
+    ctx.wakeup(); /* 用户点击某个按钮时启动app */
+  };
+});
+
