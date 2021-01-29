@@ -10,7 +10,6 @@ var isAndroid = ua.indexOf('Android') > -1 || ua.indexOf('Adr') > -1;
 
 // 点击按钮
 open1.onclick = function () {
-    maskLayer.style.display = 'none'
     window.location.href = 'https://cwma.cebbank.com/applinkUL'
 }
 
