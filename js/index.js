@@ -27,19 +27,23 @@ download.onclick = function () {
     } else {
         // window.location.href = "https://yghsh.cebbank.com/static/download/APPphone/apk/ebank_mobile_card.apk?ver=5.0.5";
     }
-     window.location.href = 'https://yanazhangabc.github.io/app/'
+    window.location.href = "http://itunes.apple.com/cn/app/id794862904"
 }
 // 打开App
 open.onclick = function () {
     if (!isAndroid) {
-        window.location.href = "com.smoothzhang.WechatDemo://jump"
+        //window.location.href = "com.smoothzhang.WechatDemo://jump"
         // window.location.href = "http://itunes.apple.com/cn/app/id794862904"
     } else {
-        window.location.href = "https://yghsh.cebbank.com/static/download/APPphone/apk/ebank_mobile_card.apk?ver=5.0.5";
+        //window.location.href = "https://yghsh.cebbank.com/static/download/APPphone/apk/ebank_mobile_card.apk?ver=5.0.5";
     }
+    
+    window.location.href = 'https://yanazhangabc.github.io/app/'
 }
+// linkUL打开App
 open1.onclick = function () {
     // window.location.href = 'https://zyzmlc.github.io/'
-    window.location.href = 'https://sifuweifang.com/'
+    // window.location.href = 'https://sifuweifang.com/'
+    window.location.href = 'https://cwma.cebbank.com/applinkUL?channel=SMARTSEARCH'
 }
 
