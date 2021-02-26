@@ -10,21 +10,5 @@ MobLink([
          key1: 'value1',
          key2: 'value2',
      }
- },
- {
-     el: '#openAppBtn1',
-     path: 'demo/b',
-     params: {
-         key1: 'value1',
-         key2: 'value2',
-     }
- },
- {
-     el: '#openAppBtn2',
-     path: 'demo/c',
-     params: {
-         key1: 'value1',
-         key2: 'value2',
-     }
  }
 ]);
