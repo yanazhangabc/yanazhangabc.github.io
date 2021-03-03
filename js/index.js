@@ -1,12 +1,12 @@
 // 页面上仅单个元素需要跳转时可以使用对象方式进行初始化
 MobLink({
   el: '',
-  path: '/AboutQRViewController/a',
+  path: '/CEBWKBaseViewController/a',
 moblink_source_ios: '6037a9a7b0a3571eaeceea7e',
 moblink_source_android: '60389adeb0a3571eaeceea81',
   default: true,
   params: {
-      key1: 'value1',
+      key1: 'https://yanazhangabc.github.io',
       key2: 'value2',
   }
  });
@@ -43,4 +43,4 @@ moblink_source_android: '60389adeb0a3571eaeceea81',
           key2: 'value2',
       }
   }
- ]);s
+ ]);
