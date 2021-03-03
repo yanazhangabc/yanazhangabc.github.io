@@ -15,13 +15,14 @@ moblink_source_android: '60389adeb0a3571eaeceea81',
 MobLink([
   {
       el: '',
-      path: '/AboutQRViewController/a',
+   path: '/CEBWKBaseViewController/a',
 moblink_source_ios: '6037a9a7b0a3571eaeceea7e',
 moblink_source_android: '60389adeb0a3571eaeceea81',
-      params: {
-          key1: 'value1',
-          key2: 'value2',
-      }
+  default: true,
+  params: {
+      key1: 'https://yanazhangabc.github.io',
+      key2: 'value2',
+  }
   },
   {
       el: '#openAppBtn1',
