@@ -15,9 +15,8 @@ moblink_source_android: '60389adeb0a3571eaeceea81',
 MobLink([
   {
       el: '',
-   path: '/MobLinkViewController',
+   path: '/MobLinkViewController/a',
 moblink_source_ios: '607e2b1363c0332d6516cd87',
-moblink_source_android: '60389adeb0a3571eaeceea81',
   default: true,
   params: {
       key1: 'https://yanazhangabc.github.io',
@@ -26,9 +25,8 @@ moblink_source_android: '60389adeb0a3571eaeceea81',
   },
   {
       el: '#openAppBtn1',
-      path: '/MobLinkViewController',
+      path: '/MobLinkViewController/a',
 moblink_source_ios: '607e2b1363c0332d6516cd87',
-moblink_source_android: '60389adeb0a3571eaeceea81',
       params: {
           key1: 'value1',
           key2: 'value2',
@@ -36,9 +34,8 @@ moblink_source_android: '60389adeb0a3571eaeceea81',
   },
   {
       el: '#openAppBtn2',
-       path: '/MobLinkViewController',
-moblink_source_ios: '6037a9a7b0a3571eaeceea7e',
-moblink_source_android: '60389adeb0a3571eaeceea81',
+       path: '/MobLinkViewController/a',
+moblink_source_ios: '607e2b1363c0332d6516cd87',
       params: {
           key1: 'value1',
           key2: 'value2',
