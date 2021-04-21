@@ -3,7 +3,6 @@ MobLink({
   el: '',
   path: 'yghsh-ios/CEBCREDIT/MobLinkViewController',
 moblink_source_ios: '607e2b1363c0332d6516cd87',
-moblink_source_android: '60389adeb0a3571eaeceea81',
   default: true,
   params: {
       key1: 'https://yanazhangabc.github.io',
