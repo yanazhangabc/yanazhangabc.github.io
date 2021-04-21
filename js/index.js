@@ -1,7 +1,7 @@
 // 页面上仅单个元素需要跳转时可以使用对象方式进行初始化
 MobLink({
   el: '',
-  path: 'yghsh-ios/CEBCREDIT/CEBWKBaseViewController',
+  path: 'yghsh-ios/CEBCREDIT/MobLinkViewController',
 moblink_source_ios: '607e2b1363c0332d6516cd87',
 moblink_source_android: '60389adeb0a3571eaeceea81',
   default: true,
